@@ -22,7 +22,7 @@ An experimental narrative engine for exploring alternate timelines through AI-dr
 - Transform prompts for narrative guidance
 - Exploration of alternate histories and possibilities
 
-[Learn more about Continuum →](./continuum)
+[Learn more about Continuum →](https://github.com/TensoriumAi/continuum)
 
 ### Vector Toolset
 
@@ -33,7 +33,7 @@ An innovative exploration platform designed to harness the power of embeddings a
 - Support for various embedding models (Word2Vec, BERT)
 - Experimental playground for vector reasoning
 
-[Learn more about Vector Toolset →](/VectorToolset)
+[Learn more about Vector Toolset →](https://github.com/TensoriumAi/VectorToolset)
 
 ### Vector Visualization
 
@@ -45,7 +45,7 @@ An interactive web application for visualizing and exploring high-dimensional em
 - Persistent storage with SQLite
 - Docker support for easy deployment
 
-[Learn more about Vector Visualization →](/VectorVisualization)
+[Learn more about Vector Visualization →](https://github.com/TensoriumAi/VectorVisualization)
 
 ### Unified Theory
 
@@ -56,7 +56,7 @@ An experimental framework for exploring the intersection of physics and artifici
 - Interactive visualization of physical phenomena
 - Real-time calculation of physical interactions
 
-[Learn more about Unified Theory →](/UnifiedTheory)
+[Learn more about Unified Theory →](https://github.com/TensoriumAi/UnifiedTheory)
 
 ## Getting Started
 

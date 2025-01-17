@@ -13,6 +13,9 @@ Tensorium AI is dedicated to advancing the field of artificial intelligence thro
 
 ## Projects
 
+<div style="display: flex; align-items: start; margin-bottom: 30px;">
+<div style="flex: 2;">
+
 ### Continuum
 
 An experimental narrative engine for exploring alternate timelines through AI-driven story generation. Continuum provides:
@@ -24,6 +27,15 @@ An experimental narrative engine for exploring alternate timelines through AI-dr
 
 [Learn more about Continuum →](https://github.com/TensoriumAi/continuum)
 
+</div>
+<div style="flex: 1; text-align: center; padding-left: 20px;">
+<img src="continuum-viz.gif" alt="Continuum Visualization" style="max-width: 50%; height: auto;">
+</div>
+</div>
+
+<div style="display: flex; align-items: start; margin-bottom: 30px;">
+<div style="flex: 2;">
+
 ### Vector Toolset
 
 An innovative exploration platform designed to harness the power of embeddings and high-dimensional vector spaces. Features include:
@@ -34,6 +46,15 @@ An innovative exploration platform designed to harness the power of embeddings a
 - Experimental playground for vector reasoning
 
 [Learn more about Vector Toolset →](https://github.com/TensoriumAi/VectorToolset)
+
+</div>
+<div style="flex: 1; text-align: center; padding-left: 20px;">
+<img src="vectortools.png" alt="Vector Toolset Visualization" style="max-width: 50%; height: auto;">
+</div>
+</div>
+
+<div style="display: flex; align-items: start; margin-bottom: 30px;">
+<div style="flex: 2;">
 
 ### Vector Visualization
 
@@ -47,6 +68,15 @@ An interactive web application for visualizing and exploring high-dimensional em
 
 [Learn more about Vector Visualization →](https://github.com/TensoriumAi/VectorVisualization)
 
+</div>
+<div style="flex: 1; text-align: center; padding-left: 20px;">
+<img src="vv.png" alt="Vector Visualization" style="max-width: 50%; height: auto;">
+</div>
+</div>
+
+<div style="display: flex; align-items: start; margin-bottom: 30px;">
+<div style="flex: 2;">
+
 ### Unified Theory
 
 An experimental framework for exploring the intersection of physics and artificial intelligence. This project includes:
@@ -57,6 +87,12 @@ An experimental framework for exploring the intersection of physics and artifici
 - Real-time calculation of physical interactions
 
 [Learn more about Unified Theory →](https://github.com/TensoriumAi/UnifiedTheory)
+
+</div>
+<div style="flex: 1; text-align: center; padding-left: 20px;">
+<img src="unified-theory.png" alt="Unified Theory Visualization" style="max-width: 50%; height: auto;">
+</div>
+</div>
 
 ## Getting Started
 

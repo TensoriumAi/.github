@@ -13,86 +13,21 @@ Tensorium AI is dedicated to advancing the field of artificial intelligence thro
 
 ## Projects
 
-<div style="display: flex; align-items: start; margin-bottom: 30px;">
-<div style="flex: 2;">
+| Project | Visualization |
+|---------|---------------|
+| ### Continuum<br><br>An experimental narrative engine for exploring alternate timelines through AI-driven story generation. Continuum provides:<br>- Timeline expansion for building narrative graphs<br>- Character initialization and development<br>- Temporal consistency management<br>- Transform prompts for narrative guidance<br>- Exploration of alternate histories and possibilities<br><br>[Learn more about Continuum →](https://github.com/TensoriumAi/continuum) | <img src="continuum-viz.gif" alt="Continuum Visualization" style="max-height: 350px;"> |
 
-### Continuum
+| Project | Visualization |
+|---------|---------------|
+| ### Vector Toolset<br><br>An innovative exploration platform designed to harness the power of embeddings and high-dimensional vector spaces. Features include:<br>- Interactive visualization of word similarities in 3D space<br>- Vector arithmetic and analogical reasoning<br>- Custom logical operations in embedding space<br>- Support for various embedding models (Word2Vec, BERT)<br>- Experimental playground for vector reasoning<br><br>[Learn more about Vector Toolset →](https://github.com/TensoriumAi/VectorToolset) | <img src="vectortools.png" alt="Vector Toolset Visualization" style="max-height: 350px;"> |
 
-An experimental narrative engine for exploring alternate timelines through AI-driven story generation. Continuum provides:
-- Timeline expansion for building narrative graphs
-- Character initialization and development
-- Temporal consistency management
-- Transform prompts for narrative guidance
-- Exploration of alternate histories and possibilities
+| Project | Visualization |
+|---------|---------------|
+| ### Vector Visualization<br><br>An interactive web application for visualizing and exploring high-dimensional embeddings using advanced dimensionality reduction techniques. Key features:<br>- Interactive 2D visualization of embeddings<br>- Dynamic zooming and panning<br>- Point selection and information display<br>- Data processing options (normalization, scaling)<br>- Persistent storage with SQLite<br>- Docker support for easy deployment<br><br>[Learn more about Vector Visualization →](https://github.com/TensoriumAi/VectorVisualization) | <img src="vv.png" alt="Vector Visualization" style="max-height: 350px;"> |
 
-[Learn more about Continuum →](https://github.com/TensoriumAi/continuum)
-
-</div>
-<div style="flex: 1; text-align: center; padding-left: 20px;">
-<img src="continuum-viz.gif" alt="Continuum Visualization" style="max-width: 50%; height: auto;">
-</div>
-</div>
-
-<div style="display: flex; align-items: start; margin-bottom: 30px;">
-<div style="flex: 2;">
-
-### Vector Toolset
-
-An innovative exploration platform designed to harness the power of embeddings and high-dimensional vector spaces. Features include:
-- Interactive visualization of word similarities in 3D space
-- Vector arithmetic and analogical reasoning
-- Custom logical operations in embedding space
-- Support for various embedding models (Word2Vec, BERT)
-- Experimental playground for vector reasoning
-
-[Learn more about Vector Toolset →](https://github.com/TensoriumAi/VectorToolset)
-
-</div>
-<div style="flex: 1; text-align: center; padding-left: 20px;">
-<img src="vectortools.png" alt="Vector Toolset Visualization" style="max-width: 50%; height: auto;">
-</div>
-</div>
-
-<div style="display: flex; align-items: start; margin-bottom: 30px;">
-<div style="flex: 2;">
-
-### Vector Visualization
-
-An interactive web application for visualizing and exploring high-dimensional embeddings using advanced dimensionality reduction techniques. Key features:
-- Interactive 2D visualization of embeddings
-- Dynamic zooming and panning
-- Point selection and information display
-- Data processing options (normalization, scaling)
-- Persistent storage with SQLite
-- Docker support for easy deployment
-
-[Learn more about Vector Visualization →](https://github.com/TensoriumAi/VectorVisualization)
-
-</div>
-<div style="flex: 1; text-align: center; padding-left: 20px;">
-<img src="vv.png" alt="Vector Visualization" style="max-width: 50%; height: auto;">
-</div>
-</div>
-
-<div style="display: flex; align-items: start; margin-bottom: 30px;">
-<div style="flex: 2;">
-
-### Unified Theory
-
-An experimental framework for exploring the intersection of physics and artificial intelligence. This project includes:
-- Quantum field theory simulations
-- General relativity modeling
-- Statistical mechanics implementations
-- Interactive visualization of physical phenomena
-- Real-time calculation of physical interactions
-
-[Learn more about Unified Theory →](https://github.com/TensoriumAi/UnifiedTheory)
-
-</div>
-<div style="flex: 1; text-align: center; padding-left: 20px;">
-<img src="unified-theory.png" alt="Unified Theory Visualization" style="max-width: 50%; height: auto;">
-</div>
-</div>
+| Project | Visualization |
+|---------|---------------|
+| ### Unified Theory<br><br>An experimental framework for exploring the intersection of physics and artificial intelligence. This project includes:<br>- Quantum field theory simulations<br>- General relativity modeling<br>- Statistical mechanics implementations<br>- Interactive visualization of physical phenomena<br>- Real-time calculation of physical interactions<br><br>[Learn more about Unified Theory →](https://github.com/TensoriumAi/UnifiedTheory) | <img src="unified-theory.png" alt="Unified Theory Visualization" style="max-height: 350px;"> |
 
 ## Getting Started
 

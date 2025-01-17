@@ -22,7 +22,7 @@ An experimental narrative engine for exploring alternate timelines through AI-dr
 - Transform prompts for narrative guidance
 - Exploration of alternate histories and possibilities
 
-[Learn more about Continuum →](/continuum)
+[Learn more about Continuum →](./continuum)
 
 ### Vector Toolset
 

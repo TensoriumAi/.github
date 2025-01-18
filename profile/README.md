@@ -23,7 +23,7 @@ Tensorium AI is dedicated to advancing the field of artificial intelligence thro
 
 | Project | Visualization |
 |---------|---------------|
-| **Pump Fun Analytics**<br><br>A real-time token analytics platform providing advanced monitoring and analysis capabilities for cryptocurrency tokens. Key features:<br>- Live token price and volume tracking<br>- Automatic token discovery and tracking<br>- Advanced trigger system with multi-condition evaluation<br>- In-browser database system for efficient data management<br>- Real-time WebSocket updates with automatic reconnection<br><br>[Learn more about Pump Fun Analytics →](https://github.com/TensoriumAi/pump-analytics) | <img src="demo.gif" alt="Pump Analytics Demo" style="max-height: 350px; width: 45%;"> |
+| **Pump Fun Analytics**<br><br>A real-time token analytics platform providing advanced monitoring and analysis capabilities for cryptocurrency tokens. Key features:<br>- Live token price and volume tracking<br>- Automatic token discovery and tracking<br>- Advanced trigger system with multi-condition evaluation<br>- In-browser database system for efficient data management<br>- Real-time WebSocket updates with automatic reconnection<br><br>[Learn more about Pump Fun Analytics →](https://github.com/TensoriumAi/pump-analytics) | <img src="demo.gif" alt="Pump Analytics Demo" style="max-height: 350px; "> |
 
 | Project | Visualization |
 |---------|---------------|
